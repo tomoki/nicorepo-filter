@@ -11,8 +11,9 @@
 // @grant       GM_setValue
 // @grant       GM_registerMenuCommand
 // @version     1.0.7
-// @downloadURL https://github.com/ryu39/nicorepo-filter/raw/master/nicorepo-filter.user.js
-// @updateURL   https://github.com/ryu39/nicorepo-filter/raw/master/nicorepo-filter.user.js
+// For testing
+// @downloadURL https://github.com/tomoki/nicorepo-filter/raw/master/nicorepo-filter.user.js
+// @updateURL   https://github.com/tomoki/nicorepo-filter/raw/master/nicorepo-filter.user.js
 // ==/UserScript==
 
 // Configuration page
